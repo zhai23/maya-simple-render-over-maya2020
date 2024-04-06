@@ -14,3 +14,4 @@ The plugin also provides a command `simpleTrack` to allow you to specify the sel
 - **numOfFrames**: number of frames before & after the current frame you wish to plot the trajectories.
 - **pointSize**: size of the points of the trajectories.
 - **screenSpace**: option to plot the trajectories in screen space (true) or world space (false).
+![](https://github.com/zhai23/maya-simple-render-over-maya2020/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-06%20180359.png)
